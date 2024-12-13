@@ -25,8 +25,8 @@ https://github.com/MartinAlejandroDiaz98/restAssured.git
 ---
 ### :hammer_and_wrench: Repositorios publicos personales :
  <div id="badges">
-    <a href="https://www.linkedin.com/in/martin-alejandro-diaz-409883144/">
-      <img src="https://img.shields.io/badge/RestAssured-Green" alt="RestAssured Badge"/>
+    <a href="https://github.com/MartinAlejandroDiaz98/restAssured.git">
+      <img src="https://img.shields.io/badge/API Rest Assured-Green" alt="RestAssured Badge"/>
     </a>
   </div>
 ---
