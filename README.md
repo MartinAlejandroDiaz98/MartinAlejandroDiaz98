@@ -29,7 +29,6 @@ https://github.com/MartinAlejandroDiaz98/restAssured.git
       <img src="https://img.shields.io/badge/API Rest Assured-Green" alt="RestAssured Badge"/>
     </a>
   </div>
----
 ### :hammer_and_wrench: Lenguajes y herramientas conocidas :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
