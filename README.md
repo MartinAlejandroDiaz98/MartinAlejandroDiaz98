@@ -5,7 +5,7 @@
     </a>
   </div>
   <h1>
-  Hola!
+   Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -17,9 +17,9 @@
 ### :man_technologist: Sobre mi :
 Me presento como QA Automation actualmente residiendo en Capital Federal, Buenos Aires.
 - :telescope: Previo a mi cargo actual de QA Automation, adquiri mi primer experiencia como QA Manual donde pude incorpora los conceptos de QA.
-- 
+  
 - :zap: Mi señority es de QA Automation semi señor (SSR).
-
+  
 - :mailbox:Para conocer mas sobre mi experiencia profesional como QA: [![Linkedin Badge](https://img.shields.io/badge/-Tincho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alejandro-diaz-409883144)
 
 ---
@@ -49,7 +49,7 @@ Me presento como QA Automation actualmente residiendo en Capital Federal, Buenos
 
 ---
 
-### :fire: My Stats :
+### :fire: Mis estadisticas :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MartinAlejandroDiaz98" alt="thefreerangetester" /></a> </p>
 <div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MartinAlejandroDiaz98&theme=dark&background=000000" width="600"/>
