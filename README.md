@@ -20,7 +20,7 @@ Me presento como QA Automation actualmente residiendo en Capital Federal, Buenos
   
 - :zap: Mi señority es de QA Automation semi señor (SSR).
   
-- :mailbox:Te dejo este link para conocer mas sobre mi experiencia profesional como QA: [![Linkedin Badge](https://img.shields.io/badge/-Tincho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alejandro-diaz-409883144)
+- :mailbox: Te dejo este link para conocer mas sobre mi experiencia profesional como QA: [![Linkedin Badge](https://img.shields.io/badge/-Tincho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alejandro-diaz-409883144)
 
 ---
 
