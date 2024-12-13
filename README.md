@@ -16,11 +16,11 @@
 ---
 ### :man_technologist: Sobre mi :
 Me presento como QA Automation actualmente residiendo en Capital Federal, Buenos Aires.
-- :telescope: Previo a mi cargo actual de QA Automation, adquiri mi primer experiencia como QA Manual donde pude incorpora los conceptos de QA.
+- :telescope: Previo a ser QA Automation adquiri mi primer experiencia como QA Manual donde aprendi los conceptos que conforman a un QA lo cual me permitio al dia de hoy tener mi puesto actual.
   
 - :zap: Mi señority es de QA Automation semi señor (SSR).
   
-- :mailbox:Para conocer mas sobre mi experiencia profesional como QA: [![Linkedin Badge](https://img.shields.io/badge/-Tincho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alejandro-diaz-409883144)
+- :mailbox:Te dejo este link para conocer mas sobre mi experiencia profesional como QA: [![Linkedin Badge](https://img.shields.io/badge/-Tincho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-alejandro-diaz-409883144)
 
 ---
 
